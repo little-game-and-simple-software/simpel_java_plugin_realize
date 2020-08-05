@@ -1,0 +1,2 @@
+# simpel_java_plugin_realize
+用简单的文本实现java插件功能
